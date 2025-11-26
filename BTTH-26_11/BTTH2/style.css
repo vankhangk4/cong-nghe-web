@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.question {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+.q-text {
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+
+.option {
+    margin-left: 15px;
+}
+
+.result {
+    padding: 10px;
+    background: #f3f3f3;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+
+.correct {
+    color: green;
+    font-weight: bold;
+}
+
+.wrong {
+    color: red;
+    font-weight: bold;
+}
+
+.answer-info {
+    margin-top: 6px;
+    font-size: 14px;
+}
